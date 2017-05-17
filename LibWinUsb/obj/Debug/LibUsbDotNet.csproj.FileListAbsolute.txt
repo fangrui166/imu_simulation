@@ -1,0 +1,5 @@
+G:\code\STM32\Kalman\飞行姿态模拟\3d飞控的版本\LibWinUsb\bin\Debug\LibUsbDotNet.dll
+G:\code\STM32\Kalman\飞行姿态模拟\3d飞控的版本\LibWinUsb\bin\Debug\LibUsbDotNet.pdb
+G:\code\STM32\Kalman\飞行姿态模拟\3d飞控的版本\LibWinUsb\obj\Debug\LibUsbDotNet.csprojResolveAssemblyReference.cache
+G:\code\STM32\Kalman\飞行姿态模拟\3d飞控的版本\LibWinUsb\obj\Debug\LibUsbDotNet.dll
+G:\code\STM32\Kalman\飞行姿态模拟\3d飞控的版本\LibWinUsb\obj\Debug\LibUsbDotNet.pdb
